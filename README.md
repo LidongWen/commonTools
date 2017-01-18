@@ -11,6 +11,7 @@
 - [复制黏贴 剪切板工具类](https://github.com/LidongWen/commonTools//blob/master/doc/clipboardUtil.md)
 - [软键盘工具类](https://github.com/LidongWen/commonTools//blob/master/doc/keyboardUtil.md)
 - [网络工具类](https://github.com/LidongWen/commonTools//blob/master/doc/netUtil.md)
+- [bitmap 工具类](https://github.com/LidongWen/commonTools//blob/master/doc/bitmapUtil.md)
 
 ## 引用
 ```groovy
