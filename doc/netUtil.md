@@ -1,21 +1,21 @@
 # NetUtils &  网络工具类
 
-- 类名：NetUtils
+#### 类名：NetUtils
 
-- 判断网络是否连接
+#### 判断网络是否连接
 ```java
  boolean isConnected(Context context);
 ```
-- 判断是否是wifi连接
+#### 判断是否是wifi连接
 ```java
 boolean isWifi(Context context);
 ```
 
-- 拼凑域名端口
+#### 拼凑域名端口
 ```java
 String Judgeurl(String weburl, String Host);
 ```
-- 拼凑域名端口
+#### 拼凑域名端口
 ```java
 String Judgeurl(String weburl);
 ```

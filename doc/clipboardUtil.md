@@ -1,12 +1,12 @@
 # ClipboardUtils &  剪切板处理
 
-- 类名：ClipboardUtils
+#### 类名：ClipboardUtils
 
-- 为剪切板设置内容
+#### 为剪切板设置内容
 ```java
 copyFromEdit(Context context, CharSequence text);
 ```
--  获取剪切板的内容
+####  获取剪切板的内容
 ```java
 CharSequence pasteToResult(Context context) ;
 ```
