@@ -1,8 +1,9 @@
 # AppUtils_  &ensp;&ensp;&ensp;  App相关辅助类
 ### 版本相关
-- 获取版本号
-
-> ``` AppUtils.getVerCode(mContext); ```
+#### 获取版本号
+```java
+AppUtils.getVerCode(mContext);
+```
 - 版本信息
 ```java
 AppUtils.getVerName(mContext);
