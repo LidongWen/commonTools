@@ -12,12 +12,14 @@
 - [软键盘工具类](https://github.com/LidongWen/commonTools//blob/master/doc/keyboardUtil.md)
 - [网络工具类](https://github.com/LidongWen/commonTools//blob/master/doc/netUtil.md)
 - [bitmap 工具类](https://github.com/LidongWen/commonTools//blob/master/doc/bitmapUtil.md)
+- [DateUtil 日期工具类](https://github.com/LidongWen/commonTools//blob/master/doc/dateUtil.md)
+
 
 ## 引用
 ```groovy
 // 项目引用
 dependencies {
-    compile 'com.github.LidongWen:commonTools:1.1.0.1'
+    compile 'com.github.LidongWen:commonTools:1.1.1'
 }
 
 // 根目录下引用

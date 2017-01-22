@@ -2,23 +2,13 @@
 
 #### 类名：NetUtils
 
-#### 判断网络是否连接
-```java
- boolean isConnected(Context context);
-```
-#### 判断是否是wifi连接
-```java
-boolean isWifi(Context context);
-```
+| name        | void name           | direction  |
+| ------------- | ------------- | :-----:|
+| 判断网络是否连接      | boolean isConnected(Context context) | |
+| 判断是否是wifi连接      |  boolean isWifi(Context context)      |  |
+| 拼凑域名端口 | String Judgeurl(String weburl, String Host) |    |
+| 拼凑域名端口 |String Judgeurl(String weburl)   |  需要设置默认域名 AllUtilConfig.Host_IP   |
 
-#### 拼凑域名端口
-```java
-String Judgeurl(String weburl, String Host);
-```
-#### 拼凑域名端口
-```java
-String Judgeurl(String weburl);
-```
 
 #Contact me
 
