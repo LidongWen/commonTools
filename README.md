@@ -19,7 +19,7 @@
 ```groovy
 // 项目引用
 dependencies {
-    compile 'com.github.LidongWen:commonTools:1.1.2'
+    compile 'com.github.LidongWen:commonTools:1.1.3'
 }
 
 // 根目录下引用
