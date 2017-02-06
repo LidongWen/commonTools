@@ -1,6 +1,6 @@
-# FastJsonUtil & json处理
-Json&对象转换
-#### 类名：FastJsonUtil
+# FileUtil
+文件
+#### 类名：FileUtil
 
 | name        | void name           | direction  |
 | ------------- | ------------- | :-----:|
