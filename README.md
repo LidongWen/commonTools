@@ -13,6 +13,8 @@
 - [网络工具类](https://github.com/LidongWen/commonTools//blob/master/doc/netUtil.md)
 - [bitmap 工具类](https://github.com/LidongWen/commonTools//blob/master/doc/bitmapUtil.md)
 - [DateUtil 日期工具类](https://github.com/LidongWen/commonTools//blob/master/doc/dateUtil.md)
+- [ReflectUtil 反射工具类](https://github.com/LidongWen/commonTools//blob/master/doc/ReflectUtil.md)
+- [FileUtil 反射工具类](https://github.com/LidongWen/commonTools//blob/master/doc/FileUtil.md)
 
 
 ## 引用
@@ -46,5 +48,7 @@ allprojects {
 #Contact me
 
 E-mail:wenld2014@163.com
+
+github: [https://github.com/LidongWen](https://github.com/LidongWen)
 
 blog: [wenld's blog](http://blog.csdn.net/sinat_15877283)
