@@ -21,7 +21,7 @@
 ```groovy
 // 项目引用
 dependencies {
-    compile 'com.github.LidongWen:commonTools:1.1.3'
+    compile 'com.github.LidongWen:commonTools:1.2.0'
 }
 
 // 根目录下引用
@@ -44,6 +44,10 @@ allprojects {
     }
 }
 ```
+## 1.2.0
+新增反射工具类、文件工具类
+## 1.0.0
+init上传
 
 #Contact me
 
