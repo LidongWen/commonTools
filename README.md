@@ -15,13 +15,13 @@
 - [DateUtil 日期工具类](https://github.com/LidongWen/commonTools//blob/master/doc/dateUtil.md)
 - [ReflectUtil 反射工具类](https://github.com/LidongWen/commonTools//blob/master/doc/ReflectUtil.md)
 - [FileUtil 反射工具类](https://github.com/LidongWen/commonTools//blob/master/doc/FileUtil.md)
-
+- [WebViewManager_](https://github.com/LidongWen/commonTools//blob/master/doc/WebViewManager.md)
 
 ## 引用
 ```groovy
 // 项目引用
 dependencies {
-    compile 'com.github.LidongWen:commonTools:1.2.0'
+    compile 'com.github.LidongWen:commonTools:1.2.1'
 }
 
 // 根目录下引用
@@ -44,6 +44,8 @@ allprojects {
     }
 }
 ```
+> ### 1.2.1
+> 新增WebView 设置管理类
 > ### 1.2.0
 > 新增反射工具类、文件工具类
 > ### 1.0.0
