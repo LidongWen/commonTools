@@ -12,27 +12,19 @@
 - [软键盘工具类](https://github.com/LidongWen/commonTools//blob/master/doc/keyboardUtil.md)
 - [网络工具类](https://github.com/LidongWen/commonTools//blob/master/doc/netUtil.md)
 - [bitmap 工具类](https://github.com/LidongWen/commonTools//blob/master/doc/bitmapUtil.md)
+- [DateUtil 日期工具类](https://github.com/LidongWen/commonTools//blob/master/doc/dateUtil.md)
+- [ReflectUtil 反射工具类](https://github.com/LidongWen/commonTools//blob/master/doc/ReflectUtil.md)
+- [FileUtil 反射工具类](https://github.com/LidongWen/commonTools//blob/master/doc/FileUtil.md)
+- [WebViewManager_](https://github.com/LidongWen/commonTools//blob/master/doc/WebViewManager.md)
 
 ## 引用
 ```groovy
 // 项目引用
 dependencies {
-    compile 'com.github.LidongWen:commonTools:1.1.0.1'
+    compile 'com.github.LidongWen:commonTools:1.2.1'
 }
 
 // 根目录下引用
-buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:2.1.0'
-        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-    }
-}
-
 allprojects {
     repositories {
         jcenter()
@@ -40,9 +32,17 @@ allprojects {
     }
 }
 ```
+> ### 1.2.1
+> 新增WebView 设置管理类
+> ### 1.2.0
+> 新增反射工具类、文件工具类
+> ### 1.0.0
+> init上传
 
 #Contact me
 
 E-mail:wenld2014@163.com
+
+github: [https://github.com/LidongWen](https://github.com/LidongWen)
 
 blog: [wenld's blog](http://blog.csdn.net/sinat_15877283)

@@ -2,33 +2,14 @@
 
 #### 类名：KeyboardUtils
 
-#### 隐藏软键盘
-```java
- hideSoftKeyboard(Context context, View view) ;
-```
-####  隐藏虚拟键盘
-```java
-HideKeyboard(View v) ;
-```
-####  显示虚拟键盘
-```java
-ShowKeyboard(View v) ;
-```
-
-#### 强制显示或者关闭系统键盘
-```java
-KeyBoard(final EditText txtSearchKey, final String status) ;
-```
-
-####  通过定时器强制隐藏虚拟键盘
-```java
-TimerHideKeyboard(final View v);
-```
-####  输入法是否显示着
-```java
-boolean KeyBoard(EditText edittext);
-```
-
+| name        | void name           | direction  |
+| ------------- | ------------- | :-----:|
+| 隐藏软键盘      | hideSoftKeyboard(Context context, View view)  | |
+| 隐藏虚拟键盘      |  HideKeyboard(View v)     |  |
+| 显示虚拟键盘 |ShowKeyboard(View v)  |    |
+| 强制显示或者关闭系统键盘 | KeyBoard(final EditText txtSearchKey, final String status) |     |
+| 通过定时器强制隐藏虚拟键盘 | TimerHideKeyboard(final View v)  |    |
+| 输入法是否显示着 | boolean KeyBoard(EditText edittext)  |    |
 
 #Contact me
 
